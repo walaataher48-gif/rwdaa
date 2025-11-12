@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://flourishing-tartufo-e42210.netlify.app/sitemap.xml
